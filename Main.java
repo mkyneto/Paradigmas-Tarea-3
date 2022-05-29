@@ -1,14 +1,3 @@
-// Integrantes Grupo 5
-/*
-Benjamin Astrain 
-Hernan Herrera 
-Alvaro Godoy 
-Agustin Vargas
-Tomás Pantoja
-Rodrigo Quiroz 
-*/
-//https://replit.com/@MkyN3ko/15052022012477742?v=1#Main.java
-
 import pojo.Jugador;
 import pojo.NumeroOculto;
 
